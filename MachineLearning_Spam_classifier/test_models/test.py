@@ -1,6 +1,6 @@
 '''
 En este script encontramos las funciones necesarias para testear nuestros modelos (Naive-Nayes y Artificial Neural Network),
-lo haremos tanto con mensajes propios como con un dataset descargado de kaggle (https://www.kaggle.com/uciml/sms-spam-collection-dataset)
+lo haremos tanto con mensajes propios como con un dataset de testeo (https://raw.githubusercontent.com/amankharwal/SMS-Spam-Detection/master/spam.csv)
 '''
 
 import pickle
