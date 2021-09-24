@@ -1,8 +1,9 @@
 '''
 En este scritp se encuentran las funciones que obtienen, limpian y visualizan los datos que usaremos
 para el trabajo.
-Los correos para identificar spam se van a descar de una ruta, los datos se encuentran en inglés, esto
-es conveniente para poder generalizar más el proyecto debido al gran uso del lenguaje.
+Los correos para identificar spam se van a obtener de una ruta, los datos se encuentran en inglés, esto
+es conveniente para poder generalizar más el proyecto debido al gran uso del lenguaje y a que todas las
+herramientas están optimizadas al inglés.
 '''
 
 import pandas as pd
